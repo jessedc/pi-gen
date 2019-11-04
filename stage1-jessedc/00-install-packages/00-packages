@@ -1,0 +1,5 @@
+tree
+git
+i2c-tools
+python3-pip python3-dev
+python3-serial python3-pigpio python3-gpiozero python3-spidev python3-smbus python3-picamera
